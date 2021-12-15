@@ -12,11 +12,11 @@
 - 🤔I have been doing two years of training with IJSE for that.
 - 🎓I was educated up to A / L at Central College Maharagama
 - ✍️ I also have knowledge of web development, 
-  UI / UX designing, database management
-  and frameworks. 
+  UI / UX designing,<br> database management
+  and frameworks.</br> 
 - 💼Contact me to get the service you 
-  need in these areas creatively, efficiently and cleanly.
-  <br>Also, if you want to receive services in a 
+  need in these areas creatively,<br>efficiently and cleanly.
+  Also, if you want to receive services in a 
   very friendly manner,contact me.</br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
