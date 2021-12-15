@@ -4,7 +4,7 @@
 
  
 
-<h2> Hey there! I'm Ravidu Lakshitha.</h2>
+<h2> Hey there!⭐️ I'm Ravidu Lakshitha.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -62,4 +62,4 @@
 <a href="mailto:ravidulakshitha@gmail360.com"><img alt="Email" src="https://img.shields.io/badge/Email-Ravidulakshitha360@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+
