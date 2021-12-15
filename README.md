@@ -47,8 +47,8 @@
 <br/>
 
 <a href="https://github.com/shenu01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shenu018&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenu018&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shenu01&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenu01&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -57,7 +57,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RaviduLakshitha&label=Profile%20views&color=0e75b6&style=flat" alt="RaviduLakshitha" /> </p>
 
 <p align="center">
-<a href="https://shenu01.github.io/MyPrifile/"><img alt="Website" src="https://img.shields.io/badge/Website-www.Ravidu.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://shenu01.github.io/MyProfile/"><img alt="Website" src="https://img.shields.io/badge/Website-www.Ravidu.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ravidu-lakshitha-8988061bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ravidu%20Lakshitha%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/shenu-roysh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shenu__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ravidulakshitha@gmail360.com"><img alt="Email" src="https://img.shields.io/badge/Email-Ravidulakshitha360@gmail.com-blue?style=flat-square&logo=gmail"></a>
