@@ -7,7 +7,17 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 
+
+- 🎓I am currently learning more about software development.
+- 🤔I have been doing two years of training with IJSE for that.
+- 🎓I was educated up to A / L at Central College Maharagama
+- ✍️ I also have knowledge of web development, 
+UI / UX designing, database management
+and frameworks. 
+- 💼Contact me to get the service you 
+need in these areas creatively, efficiently and cleanly.
+Also, if you want to receive services in a 
+very friendly manner,contact me.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
