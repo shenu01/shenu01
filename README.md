@@ -62,4 +62,4 @@
 <a href="mailto:ravidulakshitha@gmail360.com"><img alt="Email" src="https://img.shields.io/badge/Email-Ravidulakshitha360@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RaviduLakshitha&label=Profile%20views&color=0e75b6&style=flat" alt="RaviduLakshitha" /> </p>
