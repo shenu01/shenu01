@@ -16,8 +16,8 @@
   and frameworks. 
 - 💼Contact me to get the service you 
   need in these areas creatively, efficiently and cleanly.
-  Also, if you want to receive services in a 
-  very friendly manner,contact me.
+  <br>Also, if you want to receive services in a 
+  very friendly manner,contact me.</br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
