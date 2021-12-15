@@ -54,7 +54,7 @@
 <p align="center">
 <a href="https://shenu01.github.io/MyPrifile/"><img alt="Website" src="https://img.shields.io/badge/Website-www.Ravidu.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ravidu-lakshitha-8988061bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ravidu%20Lakshitha%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/Shenu-roysh_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/shenu-roysh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shenu__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
