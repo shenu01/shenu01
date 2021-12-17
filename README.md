@@ -1,8 +1,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%white&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Ravidu+Lakshitha+Jayalath;Software+Engineer+and+UX/UI+Designer;I'm+Student+In+IJSE;remember+follow+me">
 
-<img align="right" width=300px height=200px alt="side_sticker" src="https://media.giphy.com/media/PwfIMMKfup85BvPHXG/giphy-downsized-large.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/PwfIMMKfup85BvPHXG/giphy-downsized-large.gif" />
  
-<h2> Hey there!⭐️ I'm Ravidu Lakshitha.</h2>
+<h2> Hey there! I'm Ravidu Lakshitha. ⭐️
+</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -54,7 +55,8 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Connect with Me ⭐️
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RaviduLakshitha&label=Profile%20views&color=0e75b6&style=flat" alt="RaviduLakshitha" /> </p>
 
 <p align="center">
