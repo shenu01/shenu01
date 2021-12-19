@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%white&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Ravidu+Lakshitha+Jayalath;Software+Engineer+and+UX/UI+Designer;I'm+Student+In+IJSE;remember+follow+me">
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://tenor.com/biHTI.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="blob:https://tenor.com/73cbc0bc-5d4c-40f5-859c-e49ca2048404" />
  
 <h2> Hey there! I'm Ravidu Lakshitha. ⭐️
 </h2>
