@@ -8,11 +8,24 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
-- 🎓I am currently learning more about software development.
-- 🤔I have been doing two years of training with IJSE for that.
-- 🎓I was educated up to A / L at Central College Maharagama
-- ✍️ I also have knowledge of web development, 
-  UI / UX designing,<br> database management
+🎓 I am a passionate learner, currently exploring the world of software development.
+🚀 I have been sharpening my skills for the past two years through professional training at IJSE.
+🏫 I completed my Advanced Level (A/L) education at Central College, Maharagama.
+
+💻 I specialize in:
+	•	Front-End Development (HTML, CSS, JavaScript, React)
+	•	UI/UX Design (Figma, Adobe XD — crafting intuitive and user-friendly designs)
+	•	Web Development (building modern, responsive websites)
+	•	Database Management (MySQL, MongoDB)
+	•	Frameworks & Libraries (React, Node.js, Express, Bootstrap)
+
+✨ My work focuses on delivering solutions that are:
+	•	Creative
+	•	Efficient
+	•	Cleanly Coded
+	•	User-Centered
+
+🤝 I believe in providing services in a professional yet friendly manner, making the entire collaboration process smooth and enjoyable.
   and frameworks.</br> 
 - 💼Contact me to get the service you 
   need in these areas creatively,<br>efficiently and cleanly.
